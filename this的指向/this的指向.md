@@ -48,11 +48,11 @@ console.log(obj.that);//打印出的是全局对象
 
 
 
-  下面列出了ECMAScript中确定this的值的流程（点击图片查看大图）：
+  下面列出了ECMAScript中确定this的值的流程[（点击此查看大图）](this.png)：
 
 
 
-  ![[this](this.png)](this.png)
+  ![this](this.png)
 
 
 ### 1、普通调用
